@@ -6,3 +6,7 @@ dependencies:
   streamlit: 0.71.0
   libgcc: 5.2.0
   rdkit-pypi: 2022.9.5
+  rdkit: 2023.9.6
+channels:
+  - conda-forge
+  - defaults
