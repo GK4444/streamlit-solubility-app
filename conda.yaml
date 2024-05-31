@@ -1,3 +1,7 @@
+channels:
+  - conda-forge
 dependencies:
-  libgcc=5.2.0: null
-  rdkit: null
+  - rdkit
+  - pip:
+    - -r file:requirements.txt
+
