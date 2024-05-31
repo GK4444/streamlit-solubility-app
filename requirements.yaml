@@ -1,7 +1,0 @@
-channels:
-  - conda-forge
-dependencies:
-  - rdkit
-  - pip:
-    - -r file:requirements.txt
-
